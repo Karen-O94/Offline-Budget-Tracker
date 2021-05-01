@@ -12,7 +12,7 @@ A budget app where users will be able to add expenses and deposits to their budg
 ![image](https://user-images.githubusercontent.com/74797740/116791003-6f67bb80-aaaf-11eb-9e18-0e30f6e479ea.png)
 
 *graph*
-
+![image](https://user-images.githubusercontent.com/74797740/116791036-a1791d80-aaaf-11eb-8afa-b0eeb5de3058.png)
 
 
 ## Technology
