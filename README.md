@@ -32,6 +32,10 @@ To test this on your own computer,you will need to clone this repo. In order to 
 `npm i express`
 `npm i morgan`
 
+
+## Test
+We do not have any test packages for this app but always check the error messages within terminals and debug using console.log(s). 
+
 ## License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
